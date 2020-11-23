@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <HeaderContainer>
         <Feature>
-          <Feature.Title>Unlimited films, TV programmes and more.</Feature.Title>
+          <Feature.Title>The First 3D ChatBot for Education!!</Feature.Title>
           <Feature.SubTitle>Watch anywhere. Cancel at any time.</Feature.SubTitle>
           <OptForm>
             <OptForm.Input placeholder="Email address" />
