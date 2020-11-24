@@ -10,13 +10,13 @@ export default function Home() {
     <>
       <HeaderContainer>
         <Feature>
-          <Feature.Title>The First 3D ChatBot for Education!!</Feature.Title>
-          <Feature.SubTitle>Watch anywhere. Cancel at any time.</Feature.SubTitle>
+          <Feature.Title>Top Innovations in 3D & AI!</Feature.Title>
+          <Feature.SubTitle>Start your FREE Journey now.Cancel at any time.</Feature.SubTitle>
           <OptForm>
             <OptForm.Input placeholder="Email address" />
             <OptForm.Button>Try it now</OptForm.Button>
             <OptForm.Break />
-            <OptForm.Text>Ready to watch? Enter your email to create or restart your membership.</OptForm.Text>
+            <OptForm.Text>Ready to ....? Enter your email to create or restart your membership.</OptForm.Text>
           </OptForm>
         </Feature>
       </HeaderContainer>

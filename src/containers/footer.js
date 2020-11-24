@@ -10,9 +10,9 @@ export function FooterContainer() {
         <Footer.Column>
           <Footer.Link href="#">FAQ</Footer.Link>
           <Footer.Link href="#">Investor Relations</Footer.Link>
-          <Footer.Link href="#">Ways to Watch</Footer.Link>
+          <Footer.Link href="#">Ways to ....</Footer.Link>
           <Footer.Link href="#">Corporate Information</Footer.Link>
-          <Footer.Link href="#">Netflix Originals</Footer.Link>
+          <Footer.Link href="#">d3... ...</Footer.Link>
         </Footer.Column>
 
         <Footer.Column>
@@ -37,7 +37,7 @@ export function FooterContainer() {
         </Footer.Column>
       </Footer.Row>
       <Footer.Break />
-      <Footer.Text>Netflix United Kingdom</Footer.Text>
+      <Footer.Text>d3...Dubai..</Footer.Text>
     </Footer>
   );
 }
