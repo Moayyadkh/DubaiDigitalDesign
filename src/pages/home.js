@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <HeaderContainer>
         <Feature>
-          <Feature.Title>Top Innovations in 3D & AI!</Feature.Title>
+          <Feature.Title>Top Innovations in 3D & AI !</Feature.Title>
           <Feature.SubTitle>Start your FREE Journey now.Cancel at any time.</Feature.SubTitle>
           <OptForm>
             <OptForm.Input placeholder="Email address" />
