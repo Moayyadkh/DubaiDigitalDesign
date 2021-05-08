@@ -12,6 +12,7 @@
     "title": "The First Digital Avatar for education in 3D!!",
     "subTitle": "HalaBot3D",
     "image": "/images/misc/HalaBot3D.jpg",
+    
     "alt": " ",
     "direction": "row"
   },
@@ -19,7 +20,8 @@
     "id": 3,
     "title": "Best Live 3D , V-ray Rendering & 3D Real time Courses!!  ",
     "subTitle": "Stream......",
-    "image": "https://youtu.be/bPGs-ALyEtM",
+    "image": "",
+    "video":"",            
     "alt": "",
     "direction": "row"
   }
