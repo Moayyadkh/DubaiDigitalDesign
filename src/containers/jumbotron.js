@@ -1,6 +1,7 @@
 import React from 'react';
 import jumboData from '../fixtures/jumbo';
 import { Jumbotron } from '../components';
+import Video from "./Video";
 
 export function JumbotronContainer() {
   return (
@@ -13,7 +14,13 @@ export function JumbotronContainer() {
           </Jumbotron.Pane>
           <Jumbotron.Pane>
             <Jumbotron.Image src={item.image} alt={item.alt} />
+         </Jumbotron.Pane>
+
+         <Jumbotron.Pane>
+            <Jumbotron.Video src={item.Video} alt={item.alt} />
+          
           </Jumbotron.Pane>
+          
         </Jumbotron>
       ))}
     </Jumbotron.Container>
