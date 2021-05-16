@@ -1,18 +1,21 @@
 import styled from 'styled-components/macro';
 import { Link as ReachRouterLink } from 'react-router-dom';
 
-export const Background = styled.div`
+export const Background = styled.div `
   display: flex;
+  link href="IKEA 2.css" rel="stylesheet" type="text/css"
   flex-direction: column;
-  background: url(${({ src }) => (src ? `../images/misc/${src}.jpg` : '../images/misc/home-bg.jpg')}) top left / cover
+  background: url(${({ src }) => (src ? `.. / images / misc / $ { src }.jpg ` : '../images/misc/home-bg.jpg')}) top left / cover
     no-repeat;
 
   @media (max-width: 1100px) {
-    ${({ dontShowOnSmallViewPort }) => dontShowOnSmallViewPort && `background: none;`}
+    ${({ dontShowOnSmallViewPort }) => dontShowOnSmallViewPort && `
+background: none;
+`}
   }
 `;
 
-export const Container = styled.div`
+export const Container = styled.div `
   display: flex;
   margin: 0 56px;
   height: 64px;
@@ -29,7 +32,7 @@ export const Container = styled.div`
   }
 `;
 
-export const Link = styled.p`
+export const Link = styled.p `
   color: #fff;
   text-decoration: none;
   margin-right: 30px;
@@ -45,12 +48,12 @@ export const Link = styled.p`
   }
 `;
 
-export const Group = styled.div`
+export const Group = styled.div `
   display: flex;
   align-items: center;
 `;
 
-export const SearchInput = styled.input`
+export const SearchInput = styled.input `
   background-color: #44444459;
   color: white;
   border: 1px solid white;
@@ -63,7 +66,7 @@ export const SearchInput = styled.input`
   width: ${({ active }) => (active === true ? '200px' : '0px')};
 `;
 
-export const Search = styled.div`
+export const Search = styled.div `
   display: flex;
   align-items: center;
 
@@ -77,7 +80,7 @@ export const Search = styled.div`
   }
 `;
 
-export const SearchIcon = styled.button`
+export const SearchIcon = styled.button `
   cursor: pointer;
   background-color: transparent;
   border: 0;
@@ -88,7 +91,8 @@ export const SearchIcon = styled.button`
   }
 `;
 
-export const ButtonLink = styled(ReachRouterLink)`
+export const ButtonLink = styled(ReachRouterLink)
+`
   display: block;
   background-color: #e50914;
   width: 84px;
@@ -107,7 +111,7 @@ export const ButtonLink = styled(ReachRouterLink)`
   }
 `;
 
-export const Picture = styled.button`
+export const Picture = styled.button `
   background: url(${({ src }) => src});
   background-size: contain;
   border: 0;
@@ -116,7 +120,7 @@ export const Picture = styled.button`
   cursor: pointer;
 `;
 
-export const Dropdown = styled.div`
+export const Dropdown = styled.div `
   display: none;
   position: absolute;
   background-color: black;
@@ -152,7 +156,7 @@ export const Dropdown = styled.div`
   }
 `;
 
-export const Profile = styled.div`
+export const Profile = styled.div `
   display: flex;
   align-items: center;
   margin-left: 20px;
@@ -168,7 +172,8 @@ export const Profile = styled.div`
   }
 `;
 
-export const Feature = styled(Container)`
+export const Feature = styled(Container)
+`
   padding: 150px 0 500px 0;
   flex-direction: column;
   align-items: normal;
@@ -179,7 +184,7 @@ export const Feature = styled(Container)`
   }
 `;
 
-export const FeatureCallOut = styled.h2`
+export const FeatureCallOut = styled.h2 `
   color: white;
   font-size: 50px;
   line-height: normal;
@@ -188,14 +193,14 @@ export const FeatureCallOut = styled.h2`
   margin: 0;
 `;
 
-export const Text = styled.p`
+export const Text = styled.p `
   color: white;
   font-size: 22px;
   line-height: normal;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.45);
 `;
 
-export const Logo = styled.img`
+export const Logo = styled.img `
   height: 32px;
   width: 108px;
   margin-right: 40px;
@@ -206,7 +211,7 @@ export const Logo = styled.img`
   }
 `;
 
-export const PlayButton = styled.button`
+export const PlayButton = styled.button `
   box-shadow: 0 0.6vw 1vw -0.4vw rgba(0, 0, 0, 0.35);
   background-color: #e6e6e6;
   color: #000;
