@@ -3,7 +3,7 @@ import { Link as ReachRouterLink } from 'react-router-dom';
 
 export const Background = styled.div `
   display: flex;
-  link href="IKEA 2.css" rel="stylesheet" type="text/css"
+  
   flex-direction: column;
   background: url(${({ src }) => (src ? `.. / images / misc / $ { src }.jpg ` : '../images/misc/home-bg.jpg')}) top left / cover
     no-repeat;
