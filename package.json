@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "firebase": "^7.19.1",
+    "firebase-admin": "^9.9.0",
     "fuse.js": "^6.4.1",
     "normalize.css": "^8.0.1",
     "react": "^16.13.1",
