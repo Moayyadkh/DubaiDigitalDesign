@@ -1,6 +1,8 @@
 import React from 'react';
 import { Accordion, OptForm } from '../components';
 import faqsData from '../fixtures/faqs';
+//import { Header } from '../components';
+//import * as ROUTES from '../constants/routes';
 
 export function FaqsContainer() {
   return (
@@ -20,7 +22,7 @@ export function FaqsContainer() {
         <OptForm.Button>Try it now</OptForm.Button>
 
         {/*<Header.ButtonLink to={ROUTES.SIGN_IN}>Sign In</Header.ButtonLink>*/}
-        
+
         <OptForm.Break />
         <OptForm.Text>Enter your email to Start your 3dsmax Online-LIVE Modeling Basics Course!</OptForm.Text>
       </OptForm>
