@@ -18,6 +18,9 @@ export function FaqsContainer() {
       <OptForm>
         <OptForm.Input placeholder="Email address" />
         <OptForm.Button>Try it now</OptForm.Button>
+
+        {/*<Header.ButtonLink to={ROUTES.SIGN_IN}>Sign In</Header.ButtonLink>*/}
+        
         <OptForm.Break />
         <OptForm.Text>Enter your email to Start your 3dsmax Online-LIVE Modeling Basics Course!</OptForm.Text>
       </OptForm>
