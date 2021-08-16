@@ -11,12 +11,12 @@ export default function Home() {
         < HeaderContainer >
         <Feature>
         <Feature.Title>Top Innovations in 3D & AI!</Feature.Title>
-          <Feature.SubTitle>Start your FREE Journey in 3D Training NOW!</Feature.SubTitle>
+          <Feature.SubTitle>Start your FREE Journey in 3D World NOW!!</Feature.SubTitle>
           <OptForm>
             <OptForm.Input placeholder="Email address" />
             <OptForm.Button>Try it now</OptForm.Button>
             <OptForm.Break />
-            <OptForm.Text>Enter your email to Start your 3dsmax Modeling Basics Course.</OptForm.Text>
+            <OptForm.Text>Enter your email to Start your 3dsmax Online-LIVE Modeling Basics Course!.</OptForm.Text>
           </OptForm>
         </Feature>
       </HeaderContainer>
