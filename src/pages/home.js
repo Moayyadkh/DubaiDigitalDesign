@@ -5,6 +5,9 @@ import { JumbotronContainer } from '../containers/jumbotron';
 import { FaqsContainer } from '../containers/faqs';
 import { FooterContainer } from '../containers/footer';
 
+//import { Header } from '../components';
+//import * as ROUTES from '../constants/routes';
+
 export default function Home() {
     return ( < >
 
@@ -15,6 +18,9 @@ export default function Home() {
           <OptForm>
             <OptForm.Input placeholder="Email address" />
             <OptForm.Button>Try it now</OptForm.Button>
+
+            {/*<Header.ButtonLink to={ROUTES.SIGN_IN}>Sign In</Header.ButtonLink>*/}
+            
             <OptForm.Break />
             <OptForm.Text>Enter your email to Start your 3dsmax Online-LIVE Modeling Basics Course!.</OptForm.Text>
           </OptForm>
