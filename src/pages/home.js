@@ -6,7 +6,7 @@ import { FaqsContainer } from '../containers/faqs';
 import { FooterContainer } from '../containers/footer';
 
 //import { Header } from '../components';
-//import * as ROUTES from '../constants/routes';
+//import * as ROUTES from '../constants/routes';d
 
 export default function Home() {
     return ( < >
