@@ -18,24 +18,36 @@
             margin-top: 0px;
             color: red
         }
-    </style>
 
+        
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 3px solid red; 
+}
+</style>
+</head>
+<body>
+
+<div class="center">
+  <button>Centered Button</button>
+</div>
+    
 
     <title>DubaiDigitalDesign</title>
 </head>
 
 <body>
-
-    <h1>The button Element</h1>
-
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
-
-    <!-- Display the countdown timer in an element -->
+    
+  <!-- 
+  Display the countdown timer in an element -->
     <p id="demo"></p>
 
     <script>
         // Set the date we're counting down to
-        var countDownDate = new Date("august 28, 2021 12:00:00").getTime();
+        var countDownDate = new Date("September 25, 2021 12:00:00").getTime();
 
         // Update the count down every 1 second
         var x = setInterval(function() {
@@ -60,7 +72,6 @@
             if (distance < 0) {
                 clearInterval(x);
                 document.getElementById("demo").innerHTML = "EXPIRED";
-
                 
             }
         }, 1000);
