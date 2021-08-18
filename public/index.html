@@ -26,6 +26,9 @@
 
 <body>
 
+    <h1>The button Element</h1>
+
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
 
     <!-- Display the countdown timer in an element -->
     <p id="demo"></p>
@@ -57,6 +60,8 @@
             if (distance < 0) {
                 clearInterval(x);
                 document.getElementById("demo").innerHTML = "EXPIRED";
+
+                
             }
         }, 1000);
     </script>
