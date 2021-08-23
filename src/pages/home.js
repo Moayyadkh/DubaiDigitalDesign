@@ -14,7 +14,7 @@ export default function Home() {
         < HeaderContainer >
         <Feature>
         <Feature.Title>Top Innovations in 3D & AI!</Feature.Title>
-          {/*<Feature.SubTitle>Start your FREE Journey in 3D World NOW!!</Feature.SubTitle>*/}
+          <Feature.SubTitle>Start your FREE Journey in 3D World NOW!!</Feature.SubTitle>
           <OptForm>
             {/*
             <OptForm.Input placeholder="Email address" />
