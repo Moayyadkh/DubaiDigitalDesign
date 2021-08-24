@@ -17,15 +17,22 @@ import {
   Text,
   Feature,
   Logo,
-} from './styles/header';
+} from './styles/header'
 
-
+//import React from "react";/*
 import "./styles.css";
 import YoutubeEmbed from "./YoutubeEmbed";
 
+export default function App() {
+  return (
+    <div className="App">
+      <h1> </h1>
+      <YoutubeEmbed embedId="rokGy0huYEA" />
+    </div>
+  );
+}
 
-
-export default function Header({ bg = true, children, ...restProps }) {
+/*export default function Header({ bg = true, children, ...restProps }) {
   return bg ? (
     <Background data-testid="header-bg" {...restProps}>
       {children}
@@ -33,16 +40,7 @@ export default function Header({ bg = true, children, ...restProps }) {
   ) : (
     children
   );
-}
-
-function App({App=true,}){
-  return App (
-    <div className="App">
-      <h1>Youtube Embed</h1>
-      <YoutubeEmbed embedId="rokGy0huYEA" />
-    </div>
-  );}
-
+};
 
 Header.Frame = function HeaderFrame({ children, ...restProps }) {
   return <Container {...restProps}>{children}</Container>;
@@ -113,4 +111,4 @@ Header.Text = function HeaderText({ children, ...restProps }) {
 
 Header.ButtonLink = function HeaderButtonLink({ children, ...restProps }) {
   return <ButtonLink {...restProps}>{children}</ButtonLink>;
-};
+};*/
