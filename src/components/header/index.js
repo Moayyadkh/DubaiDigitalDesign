@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Link as ReachRouterLink } from 'react-router-dom';
+//import React, { useState } from 'react';
+/*import { Link as ReachRouterLink } from 'react-router-dom';
 import {
   Container,
   Group,
@@ -17,20 +17,20 @@ import {
   Text,
   Feature,
   Logo,
-} from './styles/header'
+} from './styles/header'*/
 
-//import React from "react";  
-import "./styles.css";
-import YoutubeEmbed from "./YoutubeEmbed";
+import React from "react"; 
+
+  import "./styles.css";
+import DIALOGUE from "./DIALOGUE";
 
 export default function App() {
   return (
     <div className="App">
       <h1> </h1>
-      <YoutubeEmbed embedId="m3m--F0nvhw" />
-    </div>
-  );
-}
+      <DIALOGUE embedId="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />
+       </div> );} 
+
 
 /*export default function Header({ bg = true, children, ...restProps }) {
   return bg ? (
