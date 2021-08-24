@@ -19,6 +19,12 @@ import {
   Logo,
 } from './styles/header';
 
+
+import "./styles.css";
+import YoutubeEmbed from "./YoutubeEmbed";
+
+
+
 export default function Header({ bg = true, children, ...restProps }) {
   return bg ? (
     <Background data-testid="header-bg" {...restProps}>
@@ -28,6 +34,15 @@ export default function Header({ bg = true, children, ...restProps }) {
     children
   );
 }
+
+function App({App=true,}){
+  return App (
+    <div className="App">
+      <h1>Youtube Embed</h1>
+      <YoutubeEmbed embedId="rokGy0huYEA" />
+    </div>
+  );}
+
 
 Header.Frame = function HeaderFrame({ children, ...restProps }) {
   return <Container {...restProps}>{children}</Container>;
