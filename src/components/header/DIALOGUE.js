@@ -1,17 +1,24 @@
 import React from "react";
 import PropTypes from "prop-types";
  
+import "./styles.css";
+
+export default function App() {
+return (
+  <div className="App">
+    <h1> </h1>
+    <DIALOGUE embedId="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />
+     </div> );} 
 
 const DIALOGUE = ({ embedId }) => (
-    <div className="Dialogue-responsive">
+    <div className="DIALOGUE-responsive">
     
       <iframe
              
                                          
              src="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d">
 
-               
-        
+                       
         </iframe>
     </div>
   );
@@ -40,4 +47,3 @@ DIALOGUE.propTypes = {
   embedId: PropTypes.string.isRequired
 };
 
-export default DIALOGUE;

@@ -229,4 +229,4 @@ export const PlayButton = styled.button `
     background-color: #ff1e1e;
     color: white;
   }
-`
+`;
