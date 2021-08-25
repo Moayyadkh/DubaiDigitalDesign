@@ -21,7 +21,7 @@ import {
 
 import React from "react"; 
 
-  import "./styles.css";
+import "./styles.css";
 import DIALOGUE from "./DIALOGUE";
 
 export default function App() {
