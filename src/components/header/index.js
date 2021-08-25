@@ -1,18 +1,24 @@
-/*
-import React from "react"; 
-import "./styles.css";
-import DIALOGUE from "./DIALOGUE";
 
-export default function App() {
+//import React from "react"; 
+
+//import "./styles.css";
+//import DIALOGUE from "./DIALOGUE";
+
+/*export default function App() {
   return (
     <div className="App">
       <h1> </h1>
       <DIALOGUE embedId="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />
-       </div> );} 
-       */
+       </div> );
+       } */
+       
 
-       import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { Link as ReachRouterLink } from 'react-router-dom';
+
+import PropTypes from "prop-types";
+ 
+import "./styles.css";
 import {
   Container,
   Group,
@@ -39,8 +45,7 @@ export default function Header({ bg = true, children, ...restProps }) {
       </Background>
     ) : (
       children
-    );
-  };
+    );};
   
   Header.Frame = function HeaderFrame({ children, ...restProps }) {
     return <Container {...restProps}>{children}</Container>;
