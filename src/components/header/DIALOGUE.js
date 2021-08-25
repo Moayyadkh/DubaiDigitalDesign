@@ -1,4 +1,4 @@
-import React from "react";
+/* import React from "react";
 import PropTypes from "prop-types";
  
 import "./styles.css";
@@ -41,10 +41,10 @@ const YoutubeEmbed = ({ embedId }) => (
       
     />
   </div>
-);*/}  
+);}  
 
 
 DIALOGUE.propTypes = {
-  embedId: PropTypes.string.isRequired
+  embedId: PropTypes.string.isRequired 
 };
-
+*/
