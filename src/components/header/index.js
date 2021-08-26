@@ -1,9 +1,8 @@
 
 //import React from "react"; 
-
 import "./styles.css";
 import DIALOGUE from "./DIALOGUE";
-
+import PropTypes from "prop-types";
 /*export default function App() {
   return (
     <div className="App">
@@ -16,7 +15,7 @@ import DIALOGUE from "./DIALOGUE";
 import React, { useState } from 'react';
 import { Link as ReachRouterLink } from 'react-router-dom';
 
-import PropTypes from "prop-types";
+
  
 import "./styles.css";
 import {
