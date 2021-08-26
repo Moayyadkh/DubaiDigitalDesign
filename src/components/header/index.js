@@ -1,8 +1,8 @@
 
 //import React from "react"; 
 
-//import "./styles.css";
-//import DIALOGUE from "./DIALOGUE";
+import "./styles.css";
+import DIALOGUE from "./DIALOGUE";
 
 /*export default function App() {
   return (

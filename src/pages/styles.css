@@ -1,0 +1,15 @@
+
+ .DIALOGUE-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+  }
+  
+  .DIALOGUE-responsive iframe {
+    position: absolute;
+    top: 5%;
+    left: 25%;
+    width: 50%;
+    height: 50%;
+}

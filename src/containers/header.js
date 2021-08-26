@@ -14,7 +14,7 @@ export function HeaderContainer({ children }) {
         <Header.Logo to={ROUTES.HOME} src={logo} alt="DubaiDigitalDesign!" />
         {/*<Header.ButtonLink to={ROUTES.SIGN_IN}>Sign In</Header.ButtonLink>*/}
 
-        <DIALOGUE embedId="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />
+        {<DIALOGUE embedId="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />}
 
         
       </Header.Frame>
