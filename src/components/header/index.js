@@ -23,6 +23,7 @@ import {
   Container,
   Group,
   Background,
+  /*
   Dropdown,
   Picture,
   Link,
@@ -34,7 +35,7 @@ import {
   ButtonLink,
   PlayButton,
   Text,
-  Feature,
+  Feature,*/
   Logo,
 } from './styles/header'
 
@@ -62,7 +63,7 @@ export default function Header({ bg = true, children, ...restProps }) {
       </ReachRouterLink>
     );
   };
-  
+  /*
   Header.Search = function HeaderSearch({ searchTerm, setSearchTerm, ...restProps }) {
     const [searchActive, setSearchActive] = useState(false);
   
@@ -81,7 +82,7 @@ export default function Header({ bg = true, children, ...restProps }) {
       </Search>
     );
   };
-  
+
   Header.Profile = function HeaderProfile({ children, ...restProps }) {
     return <Profile {...restProps}>{children}</Profile>;
   };
@@ -116,4 +117,4 @@ export default function Header({ bg = true, children, ...restProps }) {
   
   Header.ButtonLink = function HeaderButtonLink({ children, ...restProps }) {
     return <ButtonLink {...restProps}>{children}</ButtonLink>;
-  };
+  };*/
