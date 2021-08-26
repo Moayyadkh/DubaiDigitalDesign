@@ -17,7 +17,7 @@ import { Link as ReachRouterLink } from 'react-router-dom';
 
 
  
-import "./styles.css";
+//import "./styles.css";
 import {
   Container,
   Group,
