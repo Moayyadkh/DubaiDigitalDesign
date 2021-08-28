@@ -1,15 +1,8 @@
 
 //import React from "react"; 
 import "./styles.css";
-import DIALOGUE from "./DIALOGUE";
-import PropTypes from "prop-types";
-/*export default function App() {
-  return (
-    <div className="App">
-      <h1> </h1>
-      <DIALOGUE embedId="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />
-       </div> );
-       } */
+ 
+
        
 
 import React, { useState } from 'react';
