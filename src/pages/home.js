@@ -21,9 +21,9 @@ export default function Home() {
           {<Feature.SubTitle>Start your FREE Journey in 3D World NOW!!</Feature.SubTitle>}
           <OptForm>
             {<DIALOGUE embedId="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />}
-            <h1></h1>
+            </OptForm>
             {<YoutubeEmbed embedId="m3m--F0nvhw" />}
-          </OptForm>
+        
         </Feature>
       </HeaderContainer>
   
