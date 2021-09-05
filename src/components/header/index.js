@@ -17,17 +17,21 @@ import {
   Background,
   /*
   Dropdown,
-  Picture,
+  
   Link,
   Search,
-  Profile,
-  FeatureCallOut,
+  
+
   SearchIcon,
   SearchInput,
   ButtonLink,
   PlayButton,
-  Text,
-  Feature,*/
+*/
+Text,
+  FeatureCallOut,
+  Profile,
+  Picture,
+  Feature,
   Logo,
 } from './styles/header'
 
@@ -73,7 +77,7 @@ export default function Header({ bg = true, children, ...restProps }) {
         />
       </Search>
     );
-  };
+  };*/
 
   Header.Profile = function HeaderProfile({ children, ...restProps }) {
     return <Profile {...restProps}>{children}</Profile>;
@@ -86,19 +90,7 @@ export default function Header({ bg = true, children, ...restProps }) {
   Header.Picture = function HeaderPicture({ src, ...restProps }) {
     return <Picture {...restProps} src={`/images/users/${src}.png`} />;
   };
-  
-  Header.Dropdown = function HeaderDropdown({ children, ...restProps }) {
-    return <Dropdown {...restProps}>{children}</Dropdown>;
-  };
-  
-  Header.TextLink = function HeaderTextLink({ children, ...restProps }) {
-    return <Link {...restProps}>{children}</Link>;
-  };
-  
-  Header.PlayButton = function HeaderPlayButton({ children, ...restProps }) {
-    return <PlayButton {...restProps}>{children}</PlayButton>;
-  };
-  
+
   Header.FeatureCallOut = function HeaderFeatureCallOut({ children, ...restProps }) {
     return <FeatureCallOut {...restProps}>{children}</FeatureCallOut>;
   };
@@ -107,6 +99,22 @@ export default function Header({ bg = true, children, ...restProps }) {
     return <Text {...restProps}>{children}</Text>;
   };
   
+
+ /*
+  
+  Header.Dropdown = function HeaderDropdown({ children, ...restProps }) {
+    return <Dropdown {...restProps}>{children}</Dropdown>;
+  };
+  
+
+  
+  Header.PlayButton = function HeaderPlayButton({ children, ...restProps }) {
+    return <PlayButton {...restProps}>{children}</PlayButton>;
+  };
+  
+
+  
+
   Header.ButtonLink = function HeaderButtonLink({ children, ...restProps }) {
     return <ButtonLink {...restProps}>{children}</ButtonLink>;
   };*/
