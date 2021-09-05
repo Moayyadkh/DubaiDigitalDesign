@@ -1,11 +1,11 @@
 import React from 'react';
 import { Header } from '../components';
-import * as ROUTES from '../constants/routes';
-import logo from '../logo.svg';
+//import * as ROUTES from '../constants/routes';
+//import logo from '../logo.svg';
 //import PropTypes from "prop-types";
 
 //import YoutubeEmbed from "./YoutubeEmbed";
-import "./styles.css";
+//import "./styles.css";
 //import DIALOGUE from "./DIALOGUE";
 
 export function HeaderContainer({ children }) {
