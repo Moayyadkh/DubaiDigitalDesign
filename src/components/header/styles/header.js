@@ -51,11 +51,11 @@ background: none;
 
 export const Container = styled.div `
   display: flex;
+  
   margin: 0px;
   height: 32px;
-  padding: 50px ;
-  border: 3px solid #FF0000;
-  justify-content: space-between;
+  padding: 0px ;
+
   align-items: center;
 
   a {
