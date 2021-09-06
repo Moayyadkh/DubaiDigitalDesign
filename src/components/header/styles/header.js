@@ -51,6 +51,10 @@ background: none;
 
 export const Container = styled.div `
   display: flex;
+  .flex-container {
+ 
+    background-color: darkBlue;
+  }
   
   margin: 0px;
   height: 32px;
