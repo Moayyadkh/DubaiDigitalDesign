@@ -55,11 +55,16 @@ export const Container = styled.div `
  
     background-color: darkBlue;
   }
-  
-  margin: 0px;
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+   
   height: 32px;
   padding: 0px ;
-
+  
   align-items: center;
 
   a {
