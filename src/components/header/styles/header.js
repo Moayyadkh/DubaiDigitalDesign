@@ -17,7 +17,7 @@ background: none;
 
 export const Container = styled.div `
   display: flex;
-  margin: 0 56px;
+  margin: 10px;
   height: 64px;
   padding: 18px 0;
   justify-content: space-between;
