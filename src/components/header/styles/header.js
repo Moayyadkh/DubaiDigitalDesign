@@ -1,6 +1,6 @@
 import styled from 'styled-components/macro';
 import { Link as ReachRouterLink } from 'react-router-dom';
-
+/*
 
        // Set the date we're counting down to
        var countDownDate = new Date("September 30, 2021 12:00:00").getTime();
@@ -33,7 +33,7 @@ import { Link as ReachRouterLink } from 'react-router-dom';
                document.getElementById("demo").innerHTML = "EXPIRED";
                
            }
-       }, 1000);
+       }, 1000);*/
 
 export const Background = styled.div `
 
@@ -56,11 +56,8 @@ export const Container = styled.div `
     background-color: darkBlue;
   }
   border: 1px solid black;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
-  background-color: lightblue;
+  margin: 50px 50px 75px 100px;
+  background-color: transparent;
    
   height: 32px;
   padding: 0px ;
