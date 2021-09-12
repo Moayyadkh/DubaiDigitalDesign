@@ -19,7 +19,7 @@ export default function Home() {
         <Feature>
         <Feature.Title>Top Innovations in 3D & AI!</Feature.Title>
           {<Feature.SubTitle>Start your FREE Journey in 3D World NOW!!</Feature.SubTitle>}
-          
+          {<Feature.SubTitle>Type Below in the ChatBot your email & Mobile # to Book a free 2 Weeks 3dsmax modeling Course!!</Feature.SubTitle>}
           {/*<OptForm>
             
           </OptForm>*/}
