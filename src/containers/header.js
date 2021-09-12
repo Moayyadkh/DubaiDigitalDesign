@@ -11,14 +11,13 @@ import { Header } from '../components';
 export function HeaderContainer({ children }) {
   return (
     <Header>
-      <Header.Frame>
+      {/*<Header.Frame>*/}
        {/* <Header.Logo to={ROUTES.HOME} src={logo} alt="DubaiDigitalDesign!" />
         {/*<Header.ButtonLink to={ROUTES.SIGN_IN}>Sign In</Header.ButtonLink>*/
         }
 
-        
-        </Header.Frame>
-        
+                 
+        {/*<Header.Frame>*/}
      
       {children}
     </Header>

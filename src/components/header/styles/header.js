@@ -45,6 +45,7 @@ export const Background = styled.div `
   @media (max-width: 1100px) {
     ${({ dontShowOnSmallViewPort }) => dontShowOnSmallViewPort && `
 background: none;
+border: 10px dashed black;
 `}
   }
 `;
@@ -52,13 +53,13 @@ background: none;
 export const Container = styled.div `
   display: flex;
   .flex-container {
- 
+    border: 10px dashed black;
     background-color: darkBlue;
   }
   border: 1px solid black;
   margin: 50px 50px 75px 100px;
   background-color: transparent;
-   
+ 
   height: 32px;
   padding: 0px ;
   
