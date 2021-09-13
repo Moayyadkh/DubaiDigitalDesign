@@ -1,6 +1,6 @@
 import styled from 'styled-components/macro';
 import { Link as ReachRouterLink } from 'react-router-dom';
-/*
+
 
        // Set the date we're counting down to
        var countDownDate = new Date("September 30, 2021 12:00:00").getTime();
@@ -33,7 +33,7 @@ import { Link as ReachRouterLink } from 'react-router-dom';
                document.getElementById("demo").innerHTML = "EXPIRED";
                
            }
-       }, 1000);*/
+       }, 1000);
 
 export const Background = styled.div `
 
