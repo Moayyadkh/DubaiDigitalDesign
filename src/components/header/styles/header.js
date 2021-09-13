@@ -37,15 +37,20 @@ import { Link as ReachRouterLink } from 'react-router-dom';
 
 export const Background = styled.div `
 
-  
+ 
   flex-direction: column;
-  background: url(${({ src }) => (src ? `.. / images / misc / $ { src }.jpg ` : '../images/misc/home-bg.png')}) top left / cover
-    no-repeat;
+  background: url(${({ src }) => (src ? `.. / images / misc / $ { src }.jpg ` : '../images/misc/home-bg.jpg')}) top left / cover
+    no-repeat ;
+    
 
   @media (max-width: 1100px) {
     ${({ dontShowOnSmallViewPort }) => dontShowOnSmallViewPort && `
 background: none;
+
 border: 10px dashed black;
+position: center;
+
+
 `}
   }
 `;
@@ -59,6 +64,7 @@ export const Container = styled.div `
   border: 1px solid black;
   margin: 50px 50px 75px 100px;
   background-color: transparent;
+ 
  
   height: 32px;
   padding: 0px ;
