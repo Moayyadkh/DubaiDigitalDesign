@@ -1,5 +1,5 @@
 
- .DIALOGUE-responsive {
+ .DIALOGUE {
     overflow: hidden;
     padding-bottom: 56.25%;
     position: center;
@@ -7,7 +7,7 @@
      
   }
   
-  .DIALOGUE-responsive iframe {
+  .DIALOGUE iframe {
     position: center;
     top: 5%;
     left: 25%;

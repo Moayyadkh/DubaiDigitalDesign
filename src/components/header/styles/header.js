@@ -35,19 +35,20 @@ import { Link as ReachRouterLink } from 'react-router-dom';
            }
        }, 1000);
 
-export const Background = styled.div `
+export const Background = styled.div 
+`
 
  
   flex-direction: column;
-  background: url(${({ src }) => (src ? `.. / images / misc / $ { src }.jpg ` : '../images/misc/home-bg.png')}) top left / cover
+  background: url(${({ src }) => (src ? `.. / images / misc / $ { src }.jpg ` : '../images/misc/home-bg.jpg')}) top left / cover
     no-repeat ;
     
 
-  @media (max-width: 1100px) {
+  @media (max-width: 0px) {
     ${({ dontShowOnSmallViewPort }) => dontShowOnSmallViewPort && `
 background: none;
 
-border: 10px dashed black;
+border: 0px dashed black;
 position: center;
 
 
@@ -58,7 +59,7 @@ position: center;
 export const Container = styled.div `
   display: flex;
   .flex-container {
-    border: 10px dashed black;
+    border: 100px dashed black;
     background-color: darkBlue;
   }
   border: 1px solid black;
@@ -67,7 +68,7 @@ export const Container = styled.div `
  
  
   height: 32px;
-  padding: 0px ;
+  padding: 100px ;
   
   align-items: center;
 
