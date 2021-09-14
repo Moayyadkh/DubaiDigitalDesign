@@ -23,7 +23,7 @@ export const Title = styled.h1`
 `;
 
 export const SubTitle = styled.h2`
-  color: white;
+  color: red;
   font-size: 26px;
   font-weight: normal;
   margin: 16px auto;

@@ -2,7 +2,7 @@ import styled from 'styled-components/macro';
 import { Link as ReachRouterLink } from 'react-router-dom';
 
 
-       // Set the date we're counting down to
+       /* Set the date we're counting down to
        var countDownDate = new Date("october 3, 2021 12:00:00").getTime();
 
        // Update the count down every 1 second
@@ -33,33 +33,19 @@ import { Link as ReachRouterLink } from 'react-router-dom';
                document.getElementById("demo").innerHTML = "EXPIRED";
                
            }
-       }, 1000);
+       }, 1000);*/
 
-export const Background = styled.div 
-`
-
+export const Background = styled.div `
  
   flex-direction: column;
-  background: url(${({ src }) => (src ? `.. / images / misc / $ { src }.jpg ` : '../images/misc/home-bg.jpg')}) top left / cover
+  background: url(${({ src }) => (src ? `.. / images / misc / $ { src }.jpg ` : '../images/misc/home-bg.jpg')}) 
     no-repeat ;
-    
-
-  @media (max-width: 0px) {
-    ${({ dontShowOnSmallViewPort }) => dontShowOnSmallViewPort && `
-background: none;
-
-border: 0px dashed black;
-position: center;
-
-
-`}
-  }
-`;
+    `  
 
 export const Container = styled.div `
   display: flex;
   .flex-container {
-    border: 100px dashed black;
+    border: 10px dashed black;
     background-color: darkBlue;
   }
   border: 1px solid black;
@@ -68,7 +54,7 @@ export const Container = styled.div `
  
  
   height: 32px;
-  padding: 100px ;
+  padding: 0px ;
   
   align-items: center;
 
