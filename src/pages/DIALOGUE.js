@@ -4,8 +4,10 @@ import "./styles.css";
 
 
 const DIALOGUE = ({ embedId }) => (
-  <div  >
-    <iframe
+  <div class="container2"> 
+ 
+   <iframe 
+    class="responsive-iframe"
     allow="microphone;"
     width="853"
     height="480"
@@ -14,6 +16,7 @@ const DIALOGUE = ({ embedId }) => (
 </iframe>
     
   </div>
+   
 );
 
 DIALOGUE.propTypes = {
