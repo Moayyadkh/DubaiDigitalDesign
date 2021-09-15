@@ -7,7 +7,7 @@ const DIALOGUE = ({ embedId }) => (
   <div class="container2"> 
  
    <iframe 
-    class="responsive-iframe"
+     
     allow="microphone;"
     width="853"
     height="480"
