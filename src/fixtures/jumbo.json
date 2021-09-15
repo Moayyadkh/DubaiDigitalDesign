@@ -1,4 +1,15 @@
 [{
+    
+    "id": 2,
+    "title": "The First Digital Avatar for education HalaBot3D...!!",
+    "subTitle": "Coming Soon!!",
+    "image": "/images/misc/HalaBot3D.jpg",
+
+    "alt": " ",
+    "direction": "row"
+       
+    },
+    {
         "id": 3,
         "title": "THE First Online INTERIOR DESIGN in the MENA Region!!  ",
         "subTitle": "Coming Soon!!",
@@ -8,20 +19,12 @@
         "direction": "row"
     },
     {
+    
         "id": 1,
         "title": "The First Chatbots For Education! in the MENA Region!!",
         "subTitle": "Coming Soon!!",
         "image": "/images/misc/home-tv.jpg",
         "alt": "",
-        "direction": "row"
-    },
-    {
-        "id": 2,
-        "title": "The First Digital Avatar for education HalaBot3D..in 3D!!",
-        "subTitle": "Coming Soon!!",
-        "image": "/images/misc/HalaBot3D.jpg",
-
-        "alt": " ",
         "direction": "row"
     }
 

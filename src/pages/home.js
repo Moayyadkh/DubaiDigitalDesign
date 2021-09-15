@@ -19,12 +19,15 @@ export default function Home() {
         <Feature>
         <Feature.Title>Top Innovations in 3D & AI!</Feature.Title>
           {<Feature.SubTitle>Start your FREE Journey in 3D World NOW!!</Feature.SubTitle>}
-          {<Feature.SubTitle>Type Below in the ChatBot your email & Mobile # to Book a free 2 Weeks 3dsmax modeling Course!!</Feature.SubTitle>}
+          {<Feature.SubTitle>Enter Below your Mobile # to Book a FREE 2 Weeks 3dsmax Online-LIVE Training!!</Feature.SubTitle>}
           {/*<OptForm>
             
           </OptForm>*/}
           
             { <DIALOGUE embedId2="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />}
+            {<Feature.SubTitle> </Feature.SubTitle>}
+            {<Feature.SubTitle>Get a 50 % Discount on the Best V-RAY LIVE online Training</Feature.SubTitle>}
+             
             { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
         
         </Feature>
