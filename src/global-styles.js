@@ -7,7 +7,7 @@ export const GlobalStyles = createGlobalStyle`
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #000000;
-
+  margin-top: 0px;;
   padding: 0px;
 
 

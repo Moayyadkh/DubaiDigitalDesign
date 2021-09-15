@@ -1,7 +1,8 @@
-/*
+
  .DIALOGUE {
     overflow: hidden;
-    padding-bottom: 56.25%;
+    top: 5%;
+    padding-bottom: 5.25%;
     position: center;
     height: 0;
      
@@ -19,4 +20,4 @@ p {
   font-size: 30px;
   margin-top: 0px;
   color: rgb(218, 32, 32)
-}*/
+}
