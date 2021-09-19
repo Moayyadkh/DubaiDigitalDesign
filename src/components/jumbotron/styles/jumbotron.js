@@ -46,6 +46,8 @@ export const SubTitle = styled.h2`
 
 export const Image = styled.img`
 display: flex;
+width: 500px;
+height:500px;
 justify-content: center;
   max-width: 100%;
   height: auto;
