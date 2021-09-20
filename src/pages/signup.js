@@ -1,3 +1,4 @@
+/*
 import React, { useState, useContext } from 'react';
 import { useHistory } from 'react-router-dom';
 import { FirebaseContext } from '../context/firebase';
@@ -82,4 +83,4 @@ export default function SignUp() {
       <FooterContainer />
     </>
   );
-}
+}*/
