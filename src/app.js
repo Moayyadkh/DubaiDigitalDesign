@@ -27,11 +27,9 @@ export function App() {
         <Route path="/" component = {Home}/>
         <Redirect from='//' to ="/3dstudio-max-vray-rendering-online-course-training/"/>
        
-        <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.HOME}>
-          <Home />
-          
-        </IsUserRedirect>
-      </Switch>
+        <Route path="/3dstudio-max-vray-rendering-online-course-training/" component={Home}/>
+         
+        </Switch>
     </Router>
   );
 }
