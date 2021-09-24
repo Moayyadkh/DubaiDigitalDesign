@@ -26,7 +26,7 @@ export function App() {
 
         <Route path="/" component = {Home}/>
            <IsUserRedirect from='//' to="/3dstudio-max-vray-rendering-online-course-training/" />
-           <Route path="/tutorials/"/>
+           <Route path="/3dstudio-max-vray-rendering-online-course-training/"/>
 
         <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.HOME}>
           <Home />
