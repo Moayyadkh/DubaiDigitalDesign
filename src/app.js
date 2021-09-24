@@ -25,7 +25,7 @@ export function App() {
         </ProtectedRoute>
 
         <Route path="/" component = {Home}/>
-        <Redirect from='/' to ="/3dstudio-max-vray-rendering-online-course-training"/>
+        <Redirect from='//' to ="/3dstudio-max-vray-rendering-online-course-training/"/>
        
         <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.HOME}>
           <Home />
