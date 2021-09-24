@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch,Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch,Route,Redirect } from 'react-router-dom';
 import { Home, Browse, SignIn, SignUp } from './pages';
 import * as ROUTES from './constants/routes';
 import { IsUserRedirect, ProtectedRoute } from './helpers/routes';
@@ -25,9 +25,9 @@ export function App() {
         </ProtectedRoute>
 
         <Route path="/" component = {Home}/>
-           <IsUserRedirect from='//' to="/3dstudio-max-vray-rendering-online-course-training/" />
-           <Route path="/3dstudio-max-vray-rendering-online-course-training/"/>
-
+        <Redirect from='/' to ="/3dstudio-max-vray-rendering-online-course-trainin"/>
+       
+   
         <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.HOME}>
           <Home />
           
