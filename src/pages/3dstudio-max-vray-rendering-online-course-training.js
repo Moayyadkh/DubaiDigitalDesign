@@ -17,9 +17,9 @@ export default function Home() {
 
         < HeaderContainer>
         <Feature>
-        <Feature.Title>3dsmax Online Training </Feature.Title>
+        <Feature.Title>DubaiDigitalDesign </Feature.Title>
           {<Feature.SubTitle>Start your FREE Journey in 3D World NOW!!</Feature.SubTitle>}
-          {<Feature.SubTitle>Enter Below your Mobile # to Book a FREE 2 Weeks 3dsmax Online-LIVE Training!!</Feature.SubTitle>}
+          {<Feature.SubTitle>Enter Below your email or mobile to get FREE 2 Weeks 3dsmax Online-LIVE Training!!</Feature.SubTitle>}
           {/*<OptForm>
             
           </OptForm>*/}
