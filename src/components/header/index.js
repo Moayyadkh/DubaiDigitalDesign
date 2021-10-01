@@ -1,13 +1,8 @@
 
 //import React from "react"; 
-import "./styles.css";
- 
-
-       
-
+import "./styles.css";    
 import React, { useState } from 'react';
 import { Link as ReachRouterLink } from 'react-router-dom';
-
 
  
 //import "./styles.css";
