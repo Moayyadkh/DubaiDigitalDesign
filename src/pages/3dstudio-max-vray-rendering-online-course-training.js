@@ -9,7 +9,7 @@ import YoutubeEmbed from "./YoutubeEmbed";
 //import { Header } from '../components';
 //import * as ROUTES from '../constants/routes';
 
-import "./styles.css";
+//import "./styles.css";
 import DIALOGUE from "./DIALOGUE";
 
 export default function Home() {
