@@ -25,11 +25,12 @@ export default function Home() {
           </OptForm>*/}
           
             { <DIALOGUE embedId2="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />}
-            {<Feature.Title>Get a 50 % Discount on the Best V-RAY LIVE online Training</Feature.Title>}
+            
+            
             {<Feature.SubTitle></Feature.SubTitle>}
              
             { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
-        
+        {<Feature.Title>Get a 50 % Discount on the Best V-RAY LIVE online Training</Feature.Title>}
         </Feature>
       </HeaderContainer>
   
