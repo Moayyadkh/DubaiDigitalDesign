@@ -18,8 +18,8 @@ export default function Home() {
         < HeaderContainer>
         <Feature>
         <Feature.Title>DubaiDigitalDesign </Feature.Title>
-          {<Feature.SubTitle>Start your FREE Journey in 3D World NOW!!</Feature.SubTitle>}
-          {<Feature.SubTitle>Enter Below your email or mobile to get FREE 2 Weeks 3dsmax Online-LIVE Training!!</Feature.SubTitle>}
+          {<Feature.SubTitle>3dsmax online Courses for Interior designers!!</Feature.SubTitle>}
+          {<Feature.SubTitle>Enter Below your mobile# & get FREE 2 Weeks 3dsmax Online-LIVE Training!!</Feature.SubTitle>}
           {/*<OptForm>
             
           </OptForm>*/}
@@ -30,7 +30,7 @@ export default function Home() {
             {<Feature.SubTitle></Feature.SubTitle>}
              
             { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
-        {<Feature.Title>Get a 50 % Discount on the Best V-RAY LIVE online Training</Feature.Title>}
+        {<Feature.Title>Get a 50 % Discount on the Best V-RAY LIVE Online Training</Feature.Title>}
         </Feature>
       </HeaderContainer>
   
