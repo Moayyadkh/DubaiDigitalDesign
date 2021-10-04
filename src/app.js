@@ -18,7 +18,7 @@ export function App() {
         </ProtectedRoute>
 
          
-        <Redirect from='//' to ="/interiordesign/"/>
+        <Redirect from='//' to ="/3dmax-vray-rendering-online-training/"/>
        
         
         <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.HOME}>
