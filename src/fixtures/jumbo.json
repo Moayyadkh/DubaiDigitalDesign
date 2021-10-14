@@ -1,8 +1,8 @@
 [{
     
     "id": 1,
-    "title": "The First Digital Avatar for education HalaBot3D...!!",
-    "subTitle": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
+    "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
+    "subTitle": "",
     "image": "/images/misc/HalaBot3D.jpg",
 
     "alt": " ",
@@ -11,8 +11,8 @@
     },
     {
         "id": 2,
-        "title": "THE First Online INTERIOR DESIGN in the MENA Region!!  ",
-        "subTitle": "THE First Online INTERIOR DESIGN in the MENA Region!...Coming Soon!!",
+        "title": "THE First Online INTERIOR DESIGN in the MENA Region!...Coming Soon!!!!  ",
+        "subTitle": "",
         "image": "/images/misc/home.jpg",
         "video": "",
         "alt": "",
@@ -21,8 +21,8 @@
     {
     
         "id": 3,
-        "title": "The First Whatsapp Chatbots For IT Education!!",
-        "subTitle": "The First Whatsapp Chatbots For IT Education!!...Coming Soon!!",
+        "title": "The First Whatsapp Chatbots For IT Education!!...Coming Soon!!",
+        "subTitle": "",
         "image": "/images/misc/home-tv.jpg",
         "alt": "",
         "direction": "row"

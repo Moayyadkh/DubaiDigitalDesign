@@ -25,7 +25,7 @@ export const Pane = styled.div`
 `;
 
 export const Title = styled.h1`
-  font-size: 50px;
+  font-size: 30px;
   line-height: 1.1;
   margin-bottom: 8px;
 
