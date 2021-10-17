@@ -20,7 +20,7 @@ export default function Home() {
         <Feature.Title>DubaiDigitalDesign </Feature.Title>
           {<Feature.SubTitle>3dsmax online Courses for Interior designers!!</Feature.SubTitle>}
           {<Feature.SubTitle>Enter Below your mobile# & get FREE 2 Weeks 3dsmax Online-LIVE Training!!</Feature.SubTitle>}
-          <p> Testing!</p>
+          <p> </p>
           {/*<OptForm>
             
           </OptForm>*/}
