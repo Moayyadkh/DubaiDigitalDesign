@@ -30,7 +30,7 @@ export default function Home() {
             {<Feature.SubTitle></Feature.SubTitle>}
              
             { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
-        {<Feature.Title>Get a 50 % Discount on the Best V-RAY LIVE Online Training</Feature.Title>}
+        {<Feature.Title></Feature.Title>}
         </Feature>
       </HeaderContainer>
   

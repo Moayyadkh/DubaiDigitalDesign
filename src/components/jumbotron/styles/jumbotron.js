@@ -27,7 +27,8 @@ export const Pane = styled.div`
 `;
 
 export const Title = styled.h1`
-  font-size: 30px;
+  font-size: 40px;
+  color : white;
   line-height: 1.1;
   margin-bottom: 8px;
   background-color: Black; 
@@ -41,7 +42,7 @@ export const SubTitle = styled.h2`
   font-size: 26px;
   font-weight: normal;
   line-height: normal;
-  
+  color : red;
 
   @media (max-width: 600px) {
     font-size: 18px;

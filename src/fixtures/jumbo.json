@@ -1,9 +1,9 @@
 [{
     
     "id": 1,
-    "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
-    "subTitle": "",
-    "image": "/images/misc/HalaBot3D.jpg",
+    "title": "15 Years of Training Hundreads of Interior Designers to master 3dsmax & Vray !! ",
+    "subTitle": "Get a 50 % Discount on the Best V-RAY LIVE Online Training",
+    "image": "/images/misc/interiorVray.jpg",
 
     "alt": " ",
     "direction": "row"
@@ -18,6 +18,18 @@
         "alt": "",
         "direction": "row"
     },
+  
+
+    {
+    
+        "id": 3,
+        "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
+        "subTitle": "",
+        "image": "/images/misc/HalaBot3D.jpg",
+        "alt": "",
+        "direction": "row"
+    }
+,
     {
     
         "id": 3,
@@ -27,16 +39,4 @@
         "alt": "",
         "direction": "row"
     }
-,
-    {
-    
-        "id": 4,
-        "title": "15 Years of Training Hundreads of ID students to master 3dsmax & Vray !! ",
-        "subTitle": "",
-        "image": "/videos/interiorVray.jpg",
-        "alt": "",
-        "direction": "row"
-    }
-
-
 ]
