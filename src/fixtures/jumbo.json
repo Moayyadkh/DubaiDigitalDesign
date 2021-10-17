@@ -1,13 +1,14 @@
-[    {
+[{
     
-    "id": 4,
-    "title": "15 Years of Training Hundreads of ID students to master 3dsmax & Vray !! ",
+    "id": 1,
+    "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
     "subTitle": "",
-    "image": "/videos/003.jpg",
-    "alt": "",
-    "direction": "row"
-},
+    "image": "/images/misc/HalaBot3D.jpg",
 
+    "alt": " ",
+    "direction": "row"
+       
+    },
     {
         "id": 2,
         "title": "THE First Online INTERIOR DESIGN in the MENA Region!...Coming Soon!!!!  ",
@@ -25,18 +26,17 @@
         "image": "/images/misc/home-tv.jpg",
         "alt": "",
         "direction": "row"
-    },
+    }
+,
     {
-        
-        "id": 1,
-        "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
-        "subTitle": "",
-        "image": "/images/misc/HalaBot3D.jpg",
     
-        "alt": " ",
+        "id": 4,
+        "title": "15 Years of Training Hundreads of ID students to master 3dsmax & Vray !! ",
+        "subTitle": "",
+        "image": "/videos/interiorVray.jpg",
+        "alt": "",
         "direction": "row"
-           
-        }
+    }
 
 
 ]
