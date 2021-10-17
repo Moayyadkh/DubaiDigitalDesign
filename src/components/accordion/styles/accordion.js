@@ -13,6 +13,8 @@ export const Inner = styled.div`
   display: flex;
   padding: 70px 45px;
   flex-direction: column;
+  color : red;
+
   max-width: 815px;
   margin: auto;
 `;
@@ -22,6 +24,7 @@ export const Title = styled.h1`
   line-height: 1.1;
   margin-top: 0;
   margin-bottom: 8px;
+  
   color: white;
   text-align: center;
 
