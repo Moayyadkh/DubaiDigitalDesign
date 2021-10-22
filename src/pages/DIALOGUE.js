@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 
 const DIALOGUE = ({ embedId }) => (
-  <div class="container2"> 
+  <div> 
  
    <iframe 
      
