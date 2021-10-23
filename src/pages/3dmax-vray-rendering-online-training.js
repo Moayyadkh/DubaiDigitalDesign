@@ -17,7 +17,8 @@ export default function Home() {
 
         < HeaderContainer>
         <Feature>
-        <Feature.Title> ________________________________</Feature.Title>
+        <Feature.Title> 
+          ________________________________</Feature.Title>
           {<Feature.SubTitle>3dsmax online Courses for Interior designers!!</Feature.SubTitle>}
           {<Feature.SubTitle>Enter Below your mobile# & get FREE 2 Weeks 3dsmax Online-LIVE Training!!</Feature.SubTitle>}
           <p> </p>
