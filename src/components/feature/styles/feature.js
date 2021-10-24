@@ -12,7 +12,7 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.h1`
-  color: white;
+  color-opacity: 0 ;
   max-width: 640px;
   font-size: 53px;
   font-weight: 500;
