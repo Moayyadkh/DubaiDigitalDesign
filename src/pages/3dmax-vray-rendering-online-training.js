@@ -23,7 +23,7 @@ export default function Home() {
          {<p>                                    </p>}
          {<p>                                    </p>}
          {<p>                                    </p>} 
-          {<Feature.SubTitle>3dsmax online Courses for Interior designers!!</Feature.SubTitle>}
+          {<Feature.SubTitle> TOP Innovations in 3D & AI !!</Feature.SubTitle>}
           {<Feature.SubTitle>Enter Below your mobile# & get FREE 2 Weeks 3dsmax Online-LIVE Training!!</Feature.SubTitle>}
          {/* <p> </p>*/}
           {/*<OptForm>
