@@ -28,7 +28,7 @@ export const Pane = styled.div`
 
 export const Title = styled.h1`
   font-size: 40px;
-  color : white;
+  color : cayan;
   line-height: 1.1;
   margin-bottom: 8px;
   background-color: Black; 
