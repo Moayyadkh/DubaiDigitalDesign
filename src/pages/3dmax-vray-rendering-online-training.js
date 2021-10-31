@@ -18,14 +18,7 @@ export default function Home() {
         < HeaderContainer>
         <Feature>
         {/*<Feature.Title>  </Feature.Title>*/}
-         {<p>                                    </p>}
-         {<p>                                    </p>}
-         {<p>                                    </p>}
-         {<p>                                    </p>}
-         {<p>                                    </p>} 
-         {<p>                                    </p>} 
-         {<p>                                    </p>} 
-         {<p>                                    </p>}  
+         <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> 
 
           {<Feature.SubTitle> TOP Innovations in 3D & AI !!</Feature.SubTitle>}
           {<Feature.SubTitle>Enter Below your mobile# & get FREE 2 Weeks 3dsmax Online-LIVE Training!!</Feature.SubTitle>}
