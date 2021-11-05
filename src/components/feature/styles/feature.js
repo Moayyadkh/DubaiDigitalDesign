@@ -12,9 +12,10 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.h1`
-  color-opacity: 0 ;
+color : white;
+   
   max-width: 640px;
-  font-size: 53px;
+  font-size: 40px;
   font-weight: 500;
   margin: auto;
 
@@ -29,7 +30,7 @@ export const Title = styled.h1`
 
 export const SubTitle = styled.h2`
   color: red;
-  font-size: 37px;
+  font-size: 25px;
   font-weight: Bold;
   margin: 16px auto;
 
@@ -37,3 +38,5 @@ export const SubTitle = styled.h2`
     font-size: 18px;
   }
 `;
+
+ 
