@@ -22,7 +22,7 @@ export default function Home() {
 
         <Feature.Title>TOP Innovations in 3D & AI !!  </Feature.Title>
          
-          /*<Feature.SubTitle> </Feature.SubTitle>*/
+          <Feature.SubTitle> </Feature.SubTitle>
           
           {<Feature.SubTitle>Enter Below your mobile# & get FREE 2 Weeks 3dsmax Online-LIVE Training!!</Feature.SubTitle>}
          {/* <p> </p>*/}

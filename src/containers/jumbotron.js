@@ -2,9 +2,7 @@ import React from 'react';
 import jumboData from '../fixtures/jumbo';
 import { Jumbotron } from '../components';
 
-import YoutubeEmbed from "./YoutubeEmbed";
-
-export function JumbotronContainer() {
+ export function JumbotronContainer() {
   return (
     <Jumbotron.Container>
 
