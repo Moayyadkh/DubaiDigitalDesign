@@ -29,13 +29,13 @@ color : white;
 
 
 export const SubTitle = styled.h2`
-  color: red;
-  font-size: 25px;
+  color:  #b50000;
+  font-size: 30px;
   font-weight: Bold;
   margin: 16px auto;
 
   @media (max-width: 600px) {
-    font-size: 18px;
+    font-size: 25px;
   }
 `;
 

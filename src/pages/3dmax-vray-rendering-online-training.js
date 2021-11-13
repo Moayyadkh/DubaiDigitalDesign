@@ -24,7 +24,7 @@ export default function Home() {
          
           <Feature.SubTitle> </Feature.SubTitle>
           
-          {<Feature.SubTitle>Enter Below your mobile# & get FREE 2 Weeks 3dsmax Online-LIVE Training!!</Feature.SubTitle>}
+          {<Feature.SubTitle>Enter your mobile# Below & Get 2 Weeks FREE 3dsmax Modeling Online-LIVE Course!!</Feature.SubTitle>}
          {/* <p> </p>*/}
           {/*<OptForm>
             
