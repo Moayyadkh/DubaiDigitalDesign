@@ -24,7 +24,8 @@ export default function Home() {
          
           <Feature.SubTitle> </Feature.SubTitle>
           
-          {<Feature.SubTitle>Enter your mobile# Below & Get 2 Weeks FREE 3dsmax Modeling Online-LIVE Course!!</Feature.SubTitle>}
+          {<Feature.SubTitle>Enter your mobile# Below  in chatbot & Get 2 Weeks FREE 3dsmax Modeling Online-LIVE Course!!</Feature.SubTitle>}
+          {<Feature.SubTitle>دورات اون لاين ماكس ,ادخل رقم موبايلك في الشات بوت للحصول على تدريب اسبوعين مجانا</Feature.SubTitle>}
          {/* <p> </p>*/}
           {/*<OptForm>
             
