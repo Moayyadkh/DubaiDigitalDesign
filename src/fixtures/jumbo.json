@@ -9,17 +9,18 @@
     "direction": "row"
        
     },
+   
+  
     {
-        "id": 2,
-        "title": "THE First Online INTERIOR DESIGN in the MENA Region!...Coming Soon!!!!  ",
+    
+        "id": 4,
+        "title": "UnrealEngine Real-time Render Courses For Architects & Interior Designers!!...Coming Soon!!",
         "subTitle": "",
-        "image": "/images/misc/home.jpg",
-        "video": "",
+        "image": "/images/misc/RT.jpg",
         "alt": "",
         "direction": "row"
-    },
-  
-
+    }
+    ,
     {
     
         "id": 3,
@@ -29,14 +30,6 @@
         "alt": "",
         "direction": "row"
     }
-,
-    {
-    
-        "id": 4,
-        "title": "The First Whatsapp Chatbots For IT Education!!...Coming Soon!!",
-        "subTitle": "",
-        "image": "/images/misc/home-tv.jpg",
-        "alt": "",
-        "direction": "row"
-    }
+ 
+ 
 ]
