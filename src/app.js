@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch,Route ,Redirect} from 'react-router-dom';
-import { Home, /*Browse*/ } from './pages';
+import { Home,Browse,Models} from './pages';
 import * as ROUTES from './constants/routes';
 import { IsUserRedirect, ProtectedRoute } from './helpers/routes';
 import { useAuthListener } from './hooks';
@@ -12,26 +12,26 @@ export function App() {
     <Router>
       <Switch>
         
-        
-        <ProtectedRoute user={user} path={ROUTES.BROWSE}>
-          {/*<Browse />*/}
-        </ProtectedRoute>
-
-         
-       {/*< <Redirect from='//' to ="/3dmax-vray-rendering-online-training/"/>*/}
-       
-        
-        <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.HOME}>
-          <Home />
-        </IsUserRedirect>
-
+      <ProtectedRoute user={user} path={ROUTES.BROWSE}>
+      <Browse />
+      </ProtectedRoute>
      
+     
+      <Redirect from='//' to ="/models"/>
+
+      
+
+        <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.MODELS}>
+          <Models />
+        </IsUserRedirect>
 
       </Switch>
     </Router>
+         
+        
+
   );
 }
-
 
 /*
 

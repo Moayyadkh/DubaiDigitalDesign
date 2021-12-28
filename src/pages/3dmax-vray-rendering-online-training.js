@@ -12,7 +12,7 @@ import YoutubeEmbed from "./YoutubeEmbed";
 //import "./styles.css";
 import DIALOGUE from "./DIALOGUE";
 
-export default function Home() {
+export default function Hom() {
     return ( < >
 
         < HeaderContainer>
