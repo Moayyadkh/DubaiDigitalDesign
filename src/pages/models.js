@@ -4,21 +4,19 @@ import { HeaderContainer } from '../containers/header';
 import { JumbotronContainer } from '../containers/jumbotron';
 import { FaqsContainer } from '../containers/faqs';
 import { FooterContainer } from '../containers/footer';
-
 import YoutubeEmbed from "./YoutubeEmbed";
 //import { Header } from '../components';
 //import * as ROUTES from '../constants/routes';
 
 //import "./styles.css";
 import DIALOGUE from "./DIALOGUE";
+import YoutubeEmbed2 from './YoutubeEmbed2';
 
 export default function Models() {
     return ( < >
 
         < HeaderContainer>
         <Feature>
-
-        <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> 
 
         <Feature.Title>3D Assets !!  </Feature.Title>
          
@@ -36,7 +34,9 @@ export default function Models() {
             
             {<Feature.SubTitle></Feature.SubTitle>}
              
-            { <YoutubeEmbed embedId=" " /> }
+            { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
+            { <YoutubeEmbed2 embedId2="GN-J2LuCFrA" /> }
+
         {<Feature.Title></Feature.Title>}
         </Feature>
       </HeaderContainer>

@@ -4,7 +4,6 @@ import { HeaderContainer } from '../containers/header';
 import { JumbotronContainer } from '../containers/jumbotron';
 import { FaqsContainer } from '../containers/faqs';
 import { FooterContainer } from '../containers/footer';
-
 import YoutubeEmbed from "./YoutubeEmbed";
 //import { Header } from '../components';
 //import * as ROUTES from '../constants/routes';
@@ -18,7 +17,7 @@ export default function Hom() {
         < HeaderContainer>
         <Feature>
 
-        <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> <p></p> 
+        
 
         <Feature.Title>TOP Innovations in 3D & AI !!  </Feature.Title>
          
@@ -37,6 +36,8 @@ export default function Hom() {
             {<Feature.SubTitle></Feature.SubTitle>}
              
             { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
+            { <YoutubeEmbed embedId2="GN-J2LuCFrA" /> }
+           
         {<Feature.Title></Feature.Title>}
         </Feature>
       </HeaderContainer>

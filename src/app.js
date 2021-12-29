@@ -17,12 +17,17 @@ export function App() {
       </ProtectedRoute>
      
      
-      <Redirect from='//' to ="/models"/>
+      <Redirect from='//' to ="3dmax-vray-rendering-online-training"/>
 
       
 
         <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.MODELS}>
           <Models />
+        </IsUserRedirect>
+
+        
+        <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.HOME}>
+          <Home />
         </IsUserRedirect>
 
       </Switch>
