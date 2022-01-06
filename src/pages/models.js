@@ -10,7 +10,7 @@ import YoutubeEmbed from "./YoutubeEmbed";
 
 //import "./styles.css";
 import DIALOGUE from "./DIALOGUE";
-import YoutubeEmbed2 from './YoutubeEmbed2';
+ 
 
 export default function Models() {
     return ( < >
@@ -18,12 +18,12 @@ export default function Models() {
         < HeaderContainer>
         <Feature>
 
-        <Feature.Title>3D Assets !!  </Feature.Title>
+        <Feature.Title>3D Models!!  !! </Feature.Title>
          
           <Feature.SubTitle> </Feature.SubTitle>
           
-          {<Feature.SubTitle>Enter your mobile# Below  in chatbot & Get3D Assets !!</Feature.SubTitle>}
-          {<Feature.SubTitle> 3D Assets !!  </Feature.SubTitle>}
+          {<Feature.SubTitle>Enter your mobile# Below in chatbot & Get 3D Models!!</Feature.SubTitle>}
+           
          {/* <p> </p>*/}
           {/*<OptForm>
             
@@ -35,7 +35,7 @@ export default function Models() {
             {<Feature.SubTitle></Feature.SubTitle>}
              
             { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
-            { <YoutubeEmbed2 embedId2="GN-J2LuCFrA" /> }
+            { /* <YoutubeEmbed2 embedId2="GN-J2LuCFrA" />*/ }
 
         {<Feature.Title></Feature.Title>}
         </Feature>

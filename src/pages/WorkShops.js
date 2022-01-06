@@ -4,26 +4,28 @@ import { HeaderContainer } from '../containers/header';
 import { JumbotronContainer } from '../containers/jumbotron';
 import { FaqsContainer } from '../containers/faqs';
 import { FooterContainer } from '../containers/footer';
-import YoutubeEmbed2 from "./YoutubeEmbed2";
+
 //import { Header } from '../components';
 //import * as ROUTES from '../constants/routes';
 
-//import "./styles.css";
+//import "./styles.css"; 
 import DIALOGUE from "./DIALOGUE";
 
-export default function Home() {
+export default function Workshops() {
     return ( < >
 
         < HeaderContainer>
         <Feature>
 
-        <Feature.Title>Solving The "3D Training Dilemma" For Interior Designers!!  </Feature.Title>
+        
+
+        <Feature.Title> </Feature.Title>
          
-          <Feature.SubTitle> </Feature.SubTitle>
+          <Feature.SubTitle> Advanced 3D Workshops! in 2022!!</Feature.SubTitle>
 
                     {<Feature.SubTitle> </Feature.SubTitle>}
 
-          {<Feature.SubTitle>Enter your mobile# Below in chatbot & Get 1 Week FREE 3dsmax Basics-Modeling Online-LIVE Course!!</Feature.SubTitle>}
+          {<Feature.SubTitle>Enter your mobile# Below in Chatbot & Get Online 3D Projects Support !! !!</Feature.SubTitle>}
          {/* <p> </p>*/}
           {/*<OptForm>
             
@@ -34,7 +36,7 @@ export default function Home() {
             
             {<Feature.SubTitle></Feature.SubTitle>}
              
-            { <YoutubeEmbed2 embedId3="GN-J2LuCFrA" /> }
+             
             
             {/*  <YoutubeEmbed embedId2="GN-J2LuCFrA" />*/ }
            

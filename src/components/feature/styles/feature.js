@@ -15,7 +15,7 @@ export const Title = styled.h1`
 color : white;
    
   max-width: 640px;
-  font-size: 40px;
+  font-size: 35px;
   font-weight: 500;
   margin: auto;
 
@@ -29,7 +29,7 @@ color : white;
 
 
 export const SubTitle = styled.h2`
-  color:  #b50000;
+  color:  red;
   font-size: 30px;
   font-weight: Bold;
   margin: 16px auto;
