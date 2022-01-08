@@ -18,7 +18,7 @@ export default function Home() {
         < HeaderContainer>
         <Feature>
 
-        <Feature.Title>We Have The Experience & The Well to Solve The "3D Training Dilemma" For Interior Designers!!  </Feature.Title>
+        <Feature.Title>We Have The Experience & The Will to Solve The "3D Training Dilemma" For Interior Designers!!  </Feature.Title>
          
           <Feature.SubTitle> </Feature.SubTitle>
 
