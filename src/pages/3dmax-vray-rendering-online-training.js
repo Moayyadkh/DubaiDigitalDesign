@@ -5,6 +5,7 @@ import { JumbotronContainer } from '../containers/jumbotron';
 import { FaqsContainer } from '../containers/faqs';
 import { FooterContainer } from '../containers/footer';
 import YoutubeEmbed2 from "./YoutubeEmbed2";
+import YoutubeEmbed from "./YoutubeEmbed";
 //import { Header } from '../components';
 //import * as ROUTES from '../constants/routes';
 
@@ -17,7 +18,7 @@ export default function Home() {
         < HeaderContainer>
         <Feature>
 
-        <Feature.Title>Solving The "3D Training Dilemma" For Interior Designers!!  </Feature.Title>
+        <Feature.Title>We Have The Experience & The Well to Solve The "3D Training Dilemma" For Interior Designers!!  </Feature.Title>
          
           <Feature.SubTitle> </Feature.SubTitle>
 
@@ -32,8 +33,12 @@ export default function Home() {
             { <DIALOGUE embedId2="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />}
             
             
-            {<Feature.SubTitle></Feature.SubTitle>}
+            {<Feature.SubTitle>
+              { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
+              </Feature.SubTitle>}
+            
              
+
             { <YoutubeEmbed2 embedId3="GN-J2LuCFrA" /> }
             
             {/*  <YoutubeEmbed embedId2="GN-J2LuCFrA" />*/ }

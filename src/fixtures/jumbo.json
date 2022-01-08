@@ -11,22 +11,13 @@
     },
    
   
+   
     {
     
-        "id": 4,
-        "title": "UnrealEngine Real-time Render Courses For Architects & Interior Designers!!...Coming Soon!!",
-        "subTitle": "",
-        "image": "/images/misc/RT.jpg",
-        "alt": "",
-        "direction": "row"
-    }
-    ,
-    {
-    
-        "id": 3,
-        "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
-        "subTitle": "",
-        "image": "/images/misc/HalaBot3D.jpg",
+        "id": 2,
+        "title": "3dsmax is an Autodesk Product ,The same Autodesk that Created Autocad & Revit !!",
+        "subTitle": "3dsmax & V-ray Is The Top Professional 3D Programs For Any Interior Designer!",
+        "image": "/images/misc/3D Dilemma 01.jpg",
         "alt": "",
         "direction": "row"
     }
@@ -35,58 +26,50 @@
     {
     
         "id": 3,
-        "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
-        "subTitle": "",
-        "image": "/images/misc/HalaBot3D.jpg",
+        "title": "Interior Designers May have a Problem in Selling Their Ideas Without Professional 3D Work!",
+        "subTitle": "Build A Professional Portfolio Or You Will be Ignored!",
+        "image": "/images/misc/3D Dilemma 03.jpg",
         "alt": "",
         "direction": "row"
     }
     ,
     {
     
-        "id": 3,
-        "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
-        "subTitle": "",
-        "image": "/images/misc/HalaBot3D.jpg",
+        "id": 4,
+        "title": "In Tough Times Only The Top 10% Get Hired Quickly!!",
+        "subTitle": "Make No Mistake!, 3dsmax Will Differentiate your Work From Amatures!!",
+        "image": "/images/misc/3D Dilemma 04.jpg",
         "alt": "",
         "direction": "row"
     }
     ,
     {
     
-        "id": 3,
-        "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
-        "subTitle": "",
-        "image": "/images/misc/HalaBot3D.jpg",
+        "id": 5,
+        "title": "The First Week In Online Training is For Learning Basics in 3D modeling ",
+        "subTitle": "Basics are for amateurs!!",
+        "image": "/images/misc/3dsmax.jpg",
+        "alt": "",
+        "direction": "row"
+    }
+   
+    ,
+     {
+    
+        "id": 7,
+        "title": "UnrealEngine Real-time Render Courses For Architects & Interior Designers!!",
+        "subTitle": "Coming Soon!!",
+        "image": "/images/misc/RT.jpg",
         "alt": "",
         "direction": "row"
     }
     ,
+    
     {
     
-        "id": 3,
-        "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
-        "subTitle": "",
-        "image": "/images/misc/HalaBot3D.jpg",
-        "alt": "",
-        "direction": "row"
-    }
-    ,
-    {
-    
-        "id": 3,
-        "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
-        "subTitle": "",
-        "image": "/images/misc/HalaBot3D.jpg",
-        "alt": "",
-        "direction": "row"
-    }
-    ,
-    {
-    
-        "id": 3,
-        "title": "The First Digital Avatar for education HalaBot3D!!...Coming Soon!!",
-        "subTitle": "",
+        "id": 6,
+        "title": "The First Digital Avatar for education HalaBot3D!!",
+        "subTitle": "Coming Soon!!",
         "image": "/images/misc/HalaBot3D.jpg",
         "alt": "",
         "direction": "row"

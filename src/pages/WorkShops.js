@@ -4,7 +4,7 @@ import { HeaderContainer } from '../containers/header';
 import { JumbotronContainer } from '../containers/jumbotron';
 import { FaqsContainer } from '../containers/faqs';
 import { FooterContainer } from '../containers/footer';
-
+import YoutubeEmbed from "./YoutubeEmbed";
 //import { Header } from '../components';
 //import * as ROUTES from '../constants/routes';
 
@@ -36,7 +36,7 @@ export default function Workshops() {
             
             {<Feature.SubTitle></Feature.SubTitle>}
              
-             
+            { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
             
             {/*  <YoutubeEmbed embedId2="GN-J2LuCFrA" />*/ }
            

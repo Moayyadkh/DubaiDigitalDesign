@@ -34,7 +34,7 @@ export default function Models() {
             
             {<Feature.SubTitle></Feature.SubTitle>}
              
-            { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
+            
             { /* <YoutubeEmbed2 embedId2="GN-J2LuCFrA" />*/ }
 
         {<Feature.Title></Feature.Title>}
