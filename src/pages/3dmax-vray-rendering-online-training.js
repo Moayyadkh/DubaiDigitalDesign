@@ -39,7 +39,7 @@ export default function Home() {
             
              
 
-            { <YoutubeEmbed2 embedId3="GN-J2LuCFrA" /> }
+            {<YoutubeEmbed2 embedId3="GN-J2LuCFrA" /> }
             
             {/*  <YoutubeEmbed embedId2="GN-J2LuCFrA" />*/ }
            
