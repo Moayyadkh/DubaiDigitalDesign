@@ -18,6 +18,7 @@ export function App() {
      
      
       
+      <Redirect from='//' to ="3dmax-vray-rendering-online-training"/>
 
       
 
