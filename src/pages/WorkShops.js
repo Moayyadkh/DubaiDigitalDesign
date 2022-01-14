@@ -21,11 +21,11 @@ export default function Workshops() {
 
         <Feature.Title> </Feature.Title>
          
-          <Feature.SubTitle> Advanced 3D Workshops! in 2022!!</Feature.SubTitle>
+          <Feature.SubTitle> 3D Projects Online-Support </Feature.SubTitle>
 
                     {<Feature.SubTitle> </Feature.SubTitle>}
 
-          {<Feature.SubTitle>Enter your mobile# Below in Chatbot & Get Online 3D Projects Support !! !!</Feature.SubTitle>}
+          {<Feature.SubTitle>To Get Online 3D-Projects Support Enter your mobile# Below in Chatbot !!</Feature.SubTitle>}
          {/* <p> </p>*/}
           {/*<OptForm>
             
