@@ -18,13 +18,13 @@ export default function Home() {
         < HeaderContainer>
         <Feature>
 
-        <Feature.Title>We Have The Experience & The Will to Solve The "3D Training Dilemma" For Interior Designers!!  </Feature.Title>
+        <Feature.Title> DubaiDigitalDesign.com </Feature.Title>
          
-          <Feature.SubTitle> </Feature.SubTitle>
+          <Feature.SubTitle>  </Feature.SubTitle>
 
                     {<Feature.SubTitle> </Feature.SubTitle>}
 
-          {<Feature.SubTitle>Enter your mobile# Below in chatbot & Get 1 Week FREE 3dsmax Basics-Modeling Online-LIVE Course!!</Feature.SubTitle>}
+          {<Feature.SubTitle>To Get The Zoom Link for 3dsmax Webinar Please Type your mobile number or Email Below!!</Feature.SubTitle>}
          {/* <p> </p>*/}
           {/*<OptForm>
             
@@ -39,7 +39,7 @@ export default function Home() {
             
              
 
-            {<YoutubeEmbed2 embedId3="GN-J2LuCFrA" /> }
+            {/* YoutubeEmbed2 embedId3="GN-J2LuCFrA" /> */}
             
             {/*  <YoutubeEmbed embedId2="GN-J2LuCFrA" />*/ }
            
