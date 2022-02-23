@@ -20,7 +20,7 @@ export default function Home() {
 
         <Feature.Title> DubaiDigitalDesign.com </Feature.Title>
          
-          <Feature.SubTitle>  </Feature.SubTitle>
+          <Feature.SubTitle> Get 1 Free Week Online LIVE Training in 3D Modeling! </Feature.SubTitle>
 
                     {<Feature.SubTitle> </Feature.SubTitle>}
 
