@@ -8,7 +8,8 @@ export function FooterContainer() {
     <Footer>
            <iframe
     allow="microphone;"
-    width="450"
+    width="100%"
+     
     height="430"
     src="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d">
 </iframe>

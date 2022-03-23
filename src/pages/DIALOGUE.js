@@ -5,9 +5,7 @@ import PropTypes from "prop-types";
 
 const DIALOGUE = ({ embedId }) => (
   <div> 
- 
-  
-    
+
   </div>
    
 );
