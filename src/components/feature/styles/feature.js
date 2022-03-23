@@ -7,8 +7,7 @@ export const Container = styled.div`
   border-bottom: 8px solid #222;
   text-align: center;
   padding: 10px 45px;
-
-  
+ 
 `;
 
 export const Title = styled.h1`
@@ -26,7 +25,6 @@ color : white;
     font-size: 35px;
   }
 `;
-
 
 export const SubTitle = styled.h2`
   color:  red;

@@ -29,16 +29,11 @@ export default function Home() {
           {/*<OptForm>
             
           </OptForm>*/}
-          
-            { <DIALOGUE embedId2="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />}
-            
-            
+        
             {<Feature.SubTitle>
               { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
               </Feature.SubTitle>}
-            
-             
-
+          
             {/* YoutubeEmbed2 embedId3="GN-J2LuCFrA" /> */}
             
             {/*  <YoutubeEmbed embedId2="GN-J2LuCFrA" />*/ }
@@ -49,6 +44,7 @@ export default function Home() {
   
       <JumbotronContainer />
       <FaqsContainer />
+     
       <FooterContainer />
     </>
   );
