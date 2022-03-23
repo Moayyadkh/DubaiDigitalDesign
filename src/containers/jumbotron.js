@@ -19,6 +19,8 @@ import { Jumbotron } from '../components';
             <Jumbotron.Image src={item.image} alt={item.alt} />
              
          </Jumbotron.Pane>
+
+         
         {/*        
          <Jumbotron.Pane>
            
