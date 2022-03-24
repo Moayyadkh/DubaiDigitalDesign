@@ -20,11 +20,11 @@ export default function Home() {
 
         <Feature.Title> DubaiDigitalDesign.com </Feature.Title>
          
-          <Feature.SubTitle> Get 1 Free Week Online LIVE Training in 3D Modeling! </Feature.SubTitle>
+          <Feature.SubTitle> Why Designers Have D</Feature.SubTitle>
 
                     {<Feature.SubTitle> </Feature.SubTitle>}
 
-          {<Feature.SubTitle>To Get The Zoom Link for 3dsmax Webinar Please Type your mobile number or Email Below!!</Feature.SubTitle>}
+          {<Feature.SubTitle>Start 1 FREE Week Online LIVE Training in 3dsmax! </Feature.SubTitle>}
          {/* <p> </p>*/}
           {/*<OptForm>
             
