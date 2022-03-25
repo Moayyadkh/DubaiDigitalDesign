@@ -4,9 +4,13 @@ import { Link as ReachRouterLink } from 'react-router-dom';
 export const Background = styled.div `
  
   flex-direction: column;
+  height: 1000px;
+
   background: url(${({ src }) => (src ? `.. / images / misc / $ { src }.jpg ` : '../images/misc/home-bg.jpg')}) 
     no-repeat ;
-    `  
+    `
+    
+
 
 export const Container = styled.div `
   display: flex;
