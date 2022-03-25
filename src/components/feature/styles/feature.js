@@ -4,9 +4,9 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   
-  border-bottom: 8px solid #222;
+  border-bottom: 8px solid 0;
   text-align: center;
-  padding: 174px 45px;
+  padding: 0px 45px;
  
 `;
 
