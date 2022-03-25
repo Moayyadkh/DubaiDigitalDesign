@@ -7,7 +7,8 @@ export const Inner = styled.div`
   flex-direction: ${({ direction }) => direction};
   max-width: 1100px;
   margin: auto;
-  width: 100%;
+  width : 100%;
+   
 
   background-color: Black; 
 
