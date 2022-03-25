@@ -20,11 +20,11 @@ export default function Home() {
 
         <Feature.Title> DubaiDigitalDesign.com </Feature.Title>
          
-          <Feature.SubTitle> Why Designers Have D</Feature.SubTitle>
+          <Feature.SubTitle> Imagine & Build 3D Worlds!</Feature.SubTitle>
 
                     {<Feature.SubTitle> </Feature.SubTitle>}
 
-          {<Feature.SubTitle>Start 1 FREE Week Online LIVE Training in 3dsmax! </Feature.SubTitle>}
+          {<Feature.SubTitle>Start 1 FREE Week Online LIVE Training in 3dsmax For Interior Designers! </Feature.SubTitle>}
          {/* <p> </p>*/}
           {/*<OptForm>
             
@@ -34,7 +34,7 @@ export default function Home() {
               { <YoutubeEmbed embedId="m3m--F0nvhw" /> }
               </Feature.SubTitle>}
           
-            {/* YoutubeEmbed2 embedId3="GN-J2LuCFrA" /> */}
+            {/* YoutubeEmbed2 embedId3="m3m--F0nvhw" /> */}
             
             {/*  <YoutubeEmbed embedId2="GN-J2LuCFrA" />*/ }
            
