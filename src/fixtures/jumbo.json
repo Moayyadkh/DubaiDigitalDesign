@@ -1,7 +1,7 @@
 [{
     
     "id": 1,
-    "title": "15 Years Training Hundreds of Interior Designers to master 3dsmax & Vray !! ",
+    "title": "Training Hundreds of Interior Designers to master 3dsmax & Vray for more than 15 Years  !! ",
     "subTitle": "Get a 50 % Discount on the Best V-RAY LIVE Online Training",
     "image": "/images/misc/interiorVray.jpg",
 
@@ -10,13 +10,11 @@
        
     },
    
-  
-   
     {
     
         "id": 2,
-        "title": "3dsmax is an Autodesk Product ,The same Autodesk that Created Autocad & Revit !!",
-        "subTitle": "3dsmax & V-ray Are The Top Professional 3D Programs For Any Interior Designer!",
+        "title": "Learn How To Use 3dsmax As Easy As Sketchup !!",
+        "subTitle": "Mastering 3dsmax Has Never been This is Easy!",
         "image": "/images/misc/3D Dilemma 01.jpg",
         "alt": "",
         "direction": "row"
@@ -26,8 +24,8 @@
     {
     
         "id": 3,
-        "title": "Interior Designers May have a Problem in Selling Their Ideas Without Professional 3D Work!",
-        "subTitle": "Build A Professional Portfolio Or You Will be Ignored!",
+        "title": "In The Modeling Part OF The Course Master The 3D Art OF Furniture Modeling!",
+    "subTitle": "3dsmax Is The Number 1 Tool For Interior Designers!",
         "image": "/images/misc/3D Dilemma 03.jpg",
         "alt": "",
         "direction": "row"
@@ -46,8 +44,8 @@
     {
     
         "id": 5,
-        "title": "The First Week In Online Training is For Learning Basics in 3D modeling ",
-        "subTitle": "Basics are for amateurs!!",
+        "title": "Get A FREE Autocad Online Live Course in Autocad 2D!! ",
+        "subTitle": "Offer is Exclusive For 3dsmax Registred Students",
         "image": "/images/misc/3dsmax.jpg",
         "alt": "",
         "direction": "row"
