@@ -10,6 +10,19 @@
        
     },
    
+
+    {
+    
+        "id": 5,
+        "title": "Get A FREE Autocad Online Live Course ! ",
+        "subTitle": "Offer is Exclusive For 3dsmax Registred Students",
+        "image": "/images/misc/3dsmax.jpg",
+        "alt": "",
+        "direction": "row"
+    },
+
+
+
     {
     
         "id": 2,
@@ -41,17 +54,7 @@
         "direction": "row"
     }
     ,
-    {
-    
-        "id": 5,
-        "title": "Get A FREE Autocad Online Live Course in Autocad 2D!! ",
-        "subTitle": "Offer is Exclusive For 3dsmax Registred Students",
-        "image": "/images/misc/3dsmax.jpg",
-        "alt": "",
-        "direction": "row"
-    }
    
-    ,
      {
     
         "id": 7,
