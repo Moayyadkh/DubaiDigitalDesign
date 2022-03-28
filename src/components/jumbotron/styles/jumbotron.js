@@ -63,7 +63,7 @@ export const Item = styled.div`
   border-bottom: 8px solid #222;
   background-color: black; 
 
-  padding: 30px 5%;
+  padding: 50px 5%;
   color: white;
   overflow: hidden;
 `;
