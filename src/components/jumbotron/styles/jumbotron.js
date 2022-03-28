@@ -8,7 +8,7 @@ export const Inner = styled.div`
   max-width: 1100px;
   margin: auto;
   width : 100%;
-   
+  
 
   background-color: Black; 
 
@@ -28,14 +28,14 @@ export const Pane = styled.div`
 `;
 
 export const Title = styled.h1`
-  font-size: 40px;
+  font-size: 35px;
   color : white;
   line-height: 1.1;
   margin-bottom: 8px;
   background-color: Black; 
 
   @media (max-width: 600px) {
-    font-size: 35px;
+    
   }
 `;
 
@@ -46,7 +46,7 @@ export const SubTitle = styled.h2`
   color : red;
 
   @media (max-width: 600px) {
-    font-size: 18px;
+    
   }
 `;
 
@@ -63,7 +63,7 @@ export const Item = styled.div`
   border-bottom: 8px solid #222;
   background-color: black; 
 
-  padding: 50px 5%;
+  padding: 30px 5%;
   color: white;
   overflow: hidden;
 `;
