@@ -20,7 +20,7 @@ export function App() {
       
       <Redirect from='//' to ="3dmax-vray-rendering-online-training"/>
 
-      
+      {/*
 
         <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.MODELS}>
           <Models />
@@ -28,6 +28,7 @@ export function App() {
         <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.WORKSHOPS}>
           <WorkShops/>
         </IsUserRedirect>
+  */}
         
         <IsUserRedirect user={user} loggedInPath={ROUTES.BROWSE} path={ROUTES.HOME}>
           <Home />
