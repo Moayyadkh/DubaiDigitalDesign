@@ -18,7 +18,7 @@ export function App() {
      
      
       
-      <Redirect from='//' to ="3dmax-vray-rendering-online-training"/>
+      <Redirect from='//' to ="3dparadox"/>
 
       {/*
 

@@ -1,4 +1,4 @@
-export { default as Home } from   './3dmax-vray-rendering-online-training';
+export { default as Home } from   './3dparadox';
 export { default as Browse } from './browse';
 export { default as  Models} from './models';
 export { default as  WorkShops} from './WorkShops';
