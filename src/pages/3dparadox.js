@@ -18,7 +18,7 @@ export default function Home() {
         < HeaderContainer>
         <Feature>
 
-        <Feature.Title> DubaiDigitalDesign.com </Feature.Title>
+        <Feature.Title>  </Feature.Title>
          
           <Feature.SubTitle> Imagine & Build 3D Worlds!</Feature.SubTitle>
 
