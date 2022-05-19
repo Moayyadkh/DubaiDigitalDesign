@@ -29,7 +29,7 @@ export default function Models() {
             
           </OptForm>*/}
           
-            { <DIALOGUE embedId2="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />}
+          {/* { <DIALOGUE embedId2="https://console.dialogflow.com/api-client/demo/embedded/53dd1c22-2525-40bd-bb2f-f5d52c6ab69d" />}*/}
             
             
             {<Feature.SubTitle></Feature.SubTitle>}
